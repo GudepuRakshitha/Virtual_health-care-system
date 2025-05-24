@@ -1,4 +1,4 @@
-# 🩺 Virtual Health Care Assistant
+#  Virtual Health Care Assistant
 
 ## 📌 Project Overview
 
